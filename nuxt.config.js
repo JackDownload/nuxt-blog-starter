@@ -1,4 +1,4 @@
-const url = 'https://nuxt-blog-starter.netlify.app';
+const url = 'eloquent-lewin-b0cead.netlify.app';
 
 export default {
 	head                : {

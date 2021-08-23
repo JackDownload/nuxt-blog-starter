@@ -1,9 +1,9 @@
 const type = 'website';
-const url = 'https://nuxt-blog-starter.netlify.app'; // CHANGE ME!
+const url = 'eloquent-lewin-b0cead.netlify.app'; // CHANGE ME!
 const title = 'Connor Rothschild'; // CHANGE ME!
 const description = 'Connor Rothschild is a data scientist, web developer, and designer based in Houston Texas.'; // CHANGE ME!
 const mainImage = `${url}/social.png`;
-const twitterSite = '@CL_Rothschild'; // CHANGE ME!
+const twitterSite = '@jackdownload'; // CHANGE ME!
 const twitterCard = 'summary_large_image';
 
 export default (meta) => {
