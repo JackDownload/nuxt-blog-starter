@@ -1,4 +1,4 @@
-const url = 'eloquent-lewin-b0cead.netlify.app';
+const url = 'https://frosty-tesla-0045f8.netlify.app';
 
 export default {
 	head                : {
